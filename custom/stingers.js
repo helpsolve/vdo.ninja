@@ -1,9 +1,9 @@
 // custom/stingers.js - Triggerable overlay videos from list
 
 const STINGER_VIDEOS = [
-  "https://helpsolve.github.io/vdo.ninja/media/1.mp4",     // update these URLs
-  "https://helpsolve.github.io/vdo.ninja/media/2.mp4",
-  "https://helpsolve.github.io/vdo.ninja/media/3.mp4"
+  "https://helpsolve.github.io/vdo.ninja/custom/media/1.mp4",     // update these URLs
+  "https://helpsolve.github.io/vdo.ninja/custom/media/2.mp4",
+  "https://helpsolve.github.io/vdo.ninja/custom/media/3.mp4"
   // Add your own; host in /media/ folder or external CDN
 ];
 
