@@ -1,6 +1,6 @@
 // custom/pulsating-avatar.js - Pulsating avatar on cam off
 
-const AVATAR_IMAGE = "https://helpsolve.github.io/vdo.ninja/media/avatar.png";  // your PNG
+const AVATAR_IMAGE = "https://helpsolve.github.io/vdo.ninja/custom/media/avatar.png";  // your PNG
 
 let pulseAvatar = null;
 let audioCtx = null;
